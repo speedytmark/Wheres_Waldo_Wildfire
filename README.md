@@ -13,3 +13,11 @@ The team repeated the process and developed a custom convolutional neural networ
 
 ## Disclaimer
 The images used in this research paper are the property of their respective copyright holders. They have been utilized solely for personal and educational purposes within the context of this research. The use of these images and materials is in accordance with the principles of fair use for academic and research purposes. No copyright infringement is intended.
+
+## Datasets
+GitHub: Where’s Waldo Dataset - Valentino Constantinou. https://github.com/vc1492a/Hey-Waldo  
+Kaggle: Wildfire Detection Image Data - Baris Dincer.  
+https://www.kaggle.com/datasets/brsdincer/wildfire-detection-image-data/
+
+## Reference Models
+Keras: ResNet50 and ResNet50v2 Applications. https://keras.io/api/applications/resnet/
